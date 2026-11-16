@@ -1,0 +1,6 @@
+{
+  "priya@acme.com": {"name": "Priya Sharma", "country": "India", "employment_type": "full_time", "role_level": "employee", "department": "Engineering"},
+  "john@acme.com":  {"name": "John Miller",  "country": "US",    "employment_type": "full_time", "role_level": "manager",  "department": "Sales"},
+  "ravi@acme.com":  {"name": "Ravi Kumar",   "country": "India", "employment_type": "contractor", "role_level": "employee", "department": "Design"},
+  "hr@acme.com":    {"name": "Asha HR",      "country": "India", "employment_type": "full_time", "role_level": "manager",  "department": "HR", "is_hr": true}
+}
